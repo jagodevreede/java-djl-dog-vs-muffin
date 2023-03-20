@@ -69,7 +69,13 @@ hs_err_pid*
 *.jpeg
 .idea/
 old/
+models_old/
 models/
+temp/
+*.gz
+*.csv
 
 *.h5
 *.params
+
+dependency-reduced-pom.xml
